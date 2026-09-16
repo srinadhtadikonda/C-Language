@@ -1,3 +1,4 @@
+/* Length of String without using function */
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
